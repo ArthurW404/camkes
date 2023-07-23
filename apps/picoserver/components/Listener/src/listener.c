@@ -1,3 +1,6 @@
+// TODO: rename to util sock
+// treating Listener as utilization socket
+
 /*
  * Copyright 2019, Data61, CSIRO (ABN 41 687 119 230)
  *
